@@ -25,7 +25,7 @@ Desenvolver minhas habilidades com proatividade, sempre buscando conhecimento de
   para análise estática de qualidade de código.
   _ Participação ativa em metodologia Scrum. \* Desenvolvimento de ferramentas para automatizar processos.
 
-2. Agência Zetta - Fundecc UFLA
+2. Fundecc UFLA
 
 - Analista desenvolvedor
   _ Analista DevOps atuando com implantação, gerência e manutenção de Cultura devops, utilizando CI/CD com Jenkins, implantação
