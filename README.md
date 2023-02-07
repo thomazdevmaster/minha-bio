@@ -27,7 +27,7 @@ Desenvolver minhas habilidades com proatividade, sempre buscando conhecimento de
 
 2. Fundecc UFLA
 
-- Analista desenvolvedor
+- Analista Desenvolvedor Pleno
   _ Analista DevOps atuando com implantação, gerência e manutenção de Cultura devops, utilizando CI/CD com Jenkins, implantação
   de testes automatizados com ferramenta cypress, análise estática de código utilizando sonarQube.
   _ Adaptação de arquitetura de software para projetos.
@@ -42,8 +42,8 @@ Desenvolver minhas habilidades com proatividade, sempre buscando conhecimento de
 
 **_Universidade Federal de Lavras - UFLA_**
 
-- Cursando o 8° período em sistemas de informação
-  - Formação em Setembro de 2022
+- Bacharel em Sistemas de Informação
+- Mestrando em Ciência da Computação - engenharia de software
 
 ---
 
